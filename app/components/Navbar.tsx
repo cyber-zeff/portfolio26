@@ -1,7 +1,13 @@
 export default function Navbar() {
     return (
-        <>
-            this is my Navbar
-        </>
+        <nav>
+            {/* logo */}
+            <div></div>
+
+            {/* links -> chatbot, projs, experience */}
+            <div></div>
+
+            {/* some btns -> download resume */}
+        </nav>
     );
 }
