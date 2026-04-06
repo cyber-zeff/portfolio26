@@ -8,6 +8,7 @@ export default function Navbar() {
             <div></div>
 
             {/* some btns -> download resume */}
+            <div></div>
         </nav>
     );
 }
